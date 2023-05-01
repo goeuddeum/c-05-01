@@ -1,0 +1,6 @@
+﻿  c언어1.cpp
+C:\Users\16\Desktop\수업 1회정리\12일차 23 03 06\first\c언어1.cpp(69,6): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+C:\Users\16\Desktop\수업 1회정리\12일차 23 03 06\first\c언어1.cpp(3,5): message : 'main'의 이전 정의를 참조하십시오.
+  c언어6.cpp
+C:\Users\16\Desktop\수업 1회정리\12일차 23 03 06\first\c언어6.cpp(1,1): fatal  error C1020: 예기치 않은 #endif입니다.
+  코드를 생성하고 있습니다...
